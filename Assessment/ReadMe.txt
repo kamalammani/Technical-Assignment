@@ -1,0 +1,13 @@
+Implement a project in Java, php or python to perform following functions
+-Read files in 'data' directory 
+-Read data into memory and filter duplicate records
+-Merge data from both files after eliminating duplicates into a new file called 'temp.csv' into 'temp' directory
+-Read data from 'temp.csv' and implement average based on starting alphabet of the country and write data in to new file called 'output.csv' in 'output' directory 
+-Example: Output should have only one record for all countries that start with a and with values as average of the data. (Watch out for null values)
+-Use seperation of concern and create classes for each major component, Ex: One for all file reading and writing, one for calculations e.t.c.
+-Do not use any external libraries, read and write files using traditional way 
+-Use OOPS concepts when and where you see fit
+-Document code adequately 
+-Provide brief description of the implemented code and approch
+-Create git repository in github and commit your code to the repository
+-Make repository public and share the link  
